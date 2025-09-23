@@ -24,7 +24,12 @@
       "titleBar.inactiveBackground": "#21573299",
       "titleBar.inactiveForeground": "#e7e7e799",
       "sideBar.border": "#2f7c47",
-      "tab.activeBorder": "#2f7c47"
+      "tab.activeBorder": "#2f7c47",
+      "breadcrumb.foreground": "#dec0c0",
+      "breadcrumb.background": "#252526",
+      "breadcrumb.focusForeground": "#aaee2b",
+      "breadcrumb.activeSelectionForeground": "#ff0000",
+      "breadcrumbPicker.background": "#4e5554"
     },
     "window.zoomLevel": 1.25,
     "editor.suggestSelection": "first",
@@ -104,7 +109,7 @@
     "js/ts.implicitProjectConfig.checkJs": true,
     "editor.detectIndentation": false,
     "peacock.color": "#215732",
-    "cSpell.words": [],
+    "cSpell.words": [ ],
     "css.lint.unknownAtRules": "ignore",
     "files.autoSave": "onFocusChange",
     "editor.dragAndDrop": false,
@@ -143,5 +148,6 @@
     "files.associations": {
       "CODEOWNERS": "plaintext",
     },
+    "chat.editor.fontSize": 14
   },
 }
